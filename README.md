@@ -3,7 +3,6 @@
 A live weather dashboard built in Power BI Desktop using WeatherAPI.com
 
 ## Preview
-## Preview
 ![Weather Report Dashboard](Screenshot%202026-07-11%20160222.png)
 
 ## Features
